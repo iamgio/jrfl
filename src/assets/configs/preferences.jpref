@@ -1,0 +1,16 @@
+# General preferences
+
+resolution.width=1000
+resolution.height=600
+resizable=true
+
+textbar-height=65
+# Only integers!
+# Recommended: 1 - 5
+messages-spacing-level=1
+
+messages.join=§fWelcome to §cJRFL§f. Type 'help' for a list of commands.
+messages.unknown-cmd.enable=false
+messages.unknown-cmd.message=Unknown command
+
+tab.space-replacer=___

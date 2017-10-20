@@ -1,0 +1,35 @@
+background.color=#002B36
+
+text.color=#FFF
+text.font=Lucida Console
+text.size=15
+
+pathtext.color=inherit text.color
+pathtext.font=inherit text.font
+pathtext.opacity=0.55
+
+textfield.color=inherit text.color
+textfield.font=inherit text.font
+textfield.size=17
+
+editor.color=inherit text.color
+editor.font=inherit text.font
+editor.bgcolor=rgba(255, 255, 255, 0.05)
+
+textbar.color=black
+textbar.opacity=0.4
+
+colors.f=white
+colors.0=black
+colors.4=#FF2B2B
+colors.c=#FF6969
+colors.6=#FF9238
+colors.e=#F9FF54
+colors.2=#009405
+colors.a=#4DFF58
+colors.9=#404DFF
+colors.b=#54B8FF
+colors.5=#A30098
+colors.d=#FF6BF5
+colors.7=#B8B8B8
+colors.r=inherit text.color
