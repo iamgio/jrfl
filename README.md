@@ -14,3 +14,11 @@ You can find the main plugin [here](https://github.com/iAmGio/jrfl-base).
 
 ### Fast to manage   
 You can find every component (preferences, styles, plugins) into **userfolder/.jrfl**.
+
+
+## Official plugins
+* [**Base**](https://github.com/iAmGio/jrfl-base) - Main plugin  
+* [**Rextester**](https://github.com/iAmGio/jrfl-rextester) - Fast compiler for 40+ programming languages, using www.rextester.com
+
+## Unofficial plugins
+(Currently empty)
